@@ -1,6 +1,7 @@
 import Tkinter as tk
 import ttk
 import user
+import sys
 
 class Root(tk.Tk):
     """Container for all frames within the application"""
